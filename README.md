@@ -1,7 +1,3 @@
-<H3>ENTER YOUR NAME</H3>:SANDHIYA R
-<H3>ENTER YOUR REGISTER NO.</H3>:212222230129
-<H3>EX. NO.1</H3> Data preprocessing in a data set downloaded from Kaggle
-<H3>DATE</H3>25.02.2024
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
@@ -43,6 +39,11 @@ Normalizing the data<BR>
 Splitting the data into test and train<BR>
 
 ###  PROGRAM:
+```
+ENTER YOUR NAME : SANDHIYA R
+ENTER YOUR REGISTER NO : 212222230129
+DATE : 25.02.2024
+```
 ```
 #import libraries
 
